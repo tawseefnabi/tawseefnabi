@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Towseef
+### Hi there 👋 I'm Tawseef
 
 - 🔭 I’m currently working web3, solidity
 - 🌱 I’m currently learning web3, solidity, blockchain.
