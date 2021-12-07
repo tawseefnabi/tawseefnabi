@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Tawseef
 
+![](https://komarev.com/ghpvc/?username=tawseefnabi&color=blueviolet)
+
+
 - 🔭 I’m currently working web3, solidity
 - 🌱 I’m currently learning web3, solidity, blockchain.
 - 💻 I'm good at React, typescript, NodeJs, Python,MongoDV, MySQL, Microservices.
