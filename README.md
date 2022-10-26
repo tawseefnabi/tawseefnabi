@@ -3,9 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=tawseefnabi&color=blueviolet)
 
 
-- 🔭 I’m currently working web3, solidity
-- 🌱 I’m currently learning web3, solidity, blockchain.
-- 💻 I'm good at React, typescript, NodeJs, Python,MongoDV, MySQL, Microservices.
+- 🔭 I’m currently working Nodejs, Python, Go
+- 💻 I'm good at Typescript, NodeJs, Python,MongoDB, MySQL, Microservices.
 - 📫 reach me: [here](https://twitter.com/NabiTowseef)
 
 
