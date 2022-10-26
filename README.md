@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Tawseef
 
-![](https://komarev.com/ghpvc/?username=tawseefnabi&color=blueviolet)
 
 
 - 🔭 I’m currently working Nodejs, Python, Go
